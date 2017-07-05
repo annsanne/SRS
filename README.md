@@ -5,7 +5,7 @@
     数据库结构
         <img src="截图/数据库结构.PNG" /><br>
     类图
-    <img src="截图/类图.PNG" /><br>
+    <img src="截图/类图.jpg" /><br>
     添加课程
      <img src="截图/添加课程.jpg" /><br>
     选课
